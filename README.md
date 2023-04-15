@@ -12,7 +12,7 @@ git clone https://github.com/edithram23/CIFAR10_prediction.git
 ```
 
 
-# 
+# Overview
 
 * The code imports necessary libraries such as NumPy, Pandas, Keras, 
   TensorFlow, Matplotlib, and OpenCV.
